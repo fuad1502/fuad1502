@@ -7,3 +7,5 @@ My goal is to consistently contribute to the OSS ecosystem by contributing to pu
 Currently, I am trying to contribute regularly to [Verilator](https://github.com/verilator/verilator).
 
 See pinned repositories for currently active projects.
+
+> P.S. My profile image is drawn by my lovely wife ❤️
