@@ -10,4 +10,4 @@ See pinned repositories for currently active projects.
 
 > P.S. My profile image is drawn by my lovely wife ❤️
 
-> See my CV [here](https://github.com/fuad1502/cv). I am currently seeking a job.
+> See my CV [here](https://github.com/fuad1502/cv). I am currently seeking for a job.
