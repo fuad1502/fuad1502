@@ -9,3 +9,5 @@ Currently, I am trying to contribute regularly to [Verilator](https://github.com
 See pinned repositories for currently active projects.
 
 > P.S. My profile image is drawn by my lovely wife ❤️
+
+> See my CV [here](https://github.com/fuad1502/cv). I am currently seeking a job.
