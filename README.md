@@ -1,13 +1,22 @@
 # Hi, I'm Fuad 👋
 
-I am an ex-Hardware Engineer, currently self studying CS to break into the industry. I am interested in Systems Software (OS, Compilers, Database, Distributed & Embedded Systems). See my guide & progress in [self-study-cs](https://github.com/fuad1502/self-study-cs).
+About me:
+1. I love FOSS 🌲
+2. I love to learn 📖
+3. I love my wife & two lovely cats 🐱
 
-My goal is to consistently contribute to the OSS ecosystem by contributing to public repositories and building my own OSS projects. 
+I contribute to several open source projects:
+- [dotnet/runtime](https://github.com/dotnet/runtime/pulls?q=is%3Apr+author%3Afuad1502)
+- [verilator/verilator](https://github.com/verilator/verilator/pulls?q=is%3Apr+author%3Afuad1502)
+- [uutils/coreutils](https://github.com/uutils/coreutils/pulls?q=is%3Apr+author%3Afuad1502)
+- [uuilts/util-linux](https://github.com/uutils/util-linux/pulls?q=is%3Apr+author%3Afuad1502)
 
-Currently, I am trying to contribute regularly to [Verilator](https://github.com/verilator/verilator).
+I also have several open source projects of my own, most notably [oombak](https://github.com/fuad1502/oombak) 🌊
 
-See pinned repositories for currently active projects.
+My backround is in EE, but I have decided to switch industry since 2022. So now I am trying make use of my "hybrid" skill set by contributing to open source software tools for hardware development ([CHIPS Alliance](https://www.chipsalliance.org/), [FOSSi](https://fossi-foundation.org/)).
 
-> P.S. My profile image is drawn by my lovely wife ❤️
+My current interests are: *compilers, OS, embedded and VLSI*
 
-> See my CV [here](https://github.com/fuad1502/cv). I am currently seeking for a job.
+My favorite book is [CSAPP](https://csapp.cs.cmu.edu/) 📚
+
+My favorite language is Rust 🦀
